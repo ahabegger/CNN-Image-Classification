@@ -1,16 +1,7 @@
 # FinalNet CNN for CIFAR-10
+### Alexander J. Habegger
 
-This repository contains the implementation of a custom CNN architecture called FinalNet, designed for the CIFAR-10 dataset. The goal of this project is to achieve better classification accuracy than the YourNet and LeNet models.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [FinalNet Architecture](#finalnet-architecture)
-- [Implementation Steps](#implementation-steps)
-- [Performance](#performance)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Resources](#resources)
+This repository contains the implementation of a custom CNN architecture called FinalNet, designed for the CIFAR-10 dataset. This project aims to achieve better classification accuracy than the YourNet and LeNet models.
 
 ## Overview
 
@@ -56,11 +47,5 @@ The FinalNet model achieved the following accuracy:
 - Optuna
 - matplotlib
 
-## Usage
-
-Clone the repository and run the code in the Google Colab environment provided in the Resources section. The code trains and evaluates the FinalNet model on the CIFAR-10 dataset. You can modify the hyperparameters and architecture as needed.
-
-## Resources
-
-- [Code (Google Colab)](https://colab.research.google.com/drive/1ZBVs5SRDbNJZVrwdpBqLE3yF6geZPOnU?usp=sharing)
-- [CSE532 Final Report](https://drive.google.com/file/d/1n5uy5zjK7gLLfm9X8Fr7P5JZ6TZoUSM4/view)
+## Disclaimer
+This project is part of an academic exercise and is not intended for commercial use.
